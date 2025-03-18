@@ -1,0 +1,15 @@
+[user]
+	name = tyler ackerson
+	email = tyler.a.ackerson@gmail.com
+[pull]
+	rebase = false
+[init]
+	defaultBranch = main
+[url "https://github.com/"]
+	insteadOf = git@github.com:
+[push]
+	autosetupremote = true
+[branch]
+	sort = committerdate
+[diff]
+	algorithm = histogram
